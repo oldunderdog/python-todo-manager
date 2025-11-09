@@ -20,12 +20,12 @@
 
 ### Онлайн (рекомендуется для быстрого тестирования):
 1. Перейдите на [Online Python](https://www.online-python.com/)
-2. Скопируйте код из `todo_manager.py`
+2. Скопируйте код из `task_manager_v1.0.py`
 3. Вставьте в редактор и нажмите "Run"
 
 ### Локально:
 1. Убедитесь, что у вас установлен Python 3.x
-2. Скачайте файл `todo_manager.py`
+2. Скачайте актуальную версию файла `task_manager_v1.0.py`
 3. Запустите в терминале:
 ```bash
-python todo_manager.py
+python task_manager_v1.0.py
